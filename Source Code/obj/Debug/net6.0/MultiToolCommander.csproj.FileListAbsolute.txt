@@ -1,0 +1,12 @@
+E:\MultiToolCommander\bin\Debug\net6.0\MultiToolCommander.deps.json
+E:\MultiToolCommander\bin\Debug\net6.0\MultiToolCommander.dll
+E:\MultiToolCommander\bin\Debug\net6.0\MultiToolCommander.pdb
+E:\MultiToolCommander\obj\Debug\net6.0\MultiToolCommander.csproj.AssemblyReference.cache
+E:\MultiToolCommander\obj\Debug\net6.0\MultiToolCommander.GeneratedMSBuildEditorConfig.editorconfig
+E:\MultiToolCommander\obj\Debug\net6.0\MultiToolCommander.AssemblyInfoInputs.cache
+E:\MultiToolCommander\obj\Debug\net6.0\MultiToolCommander.AssemblyInfo.cs
+E:\MultiToolCommander\obj\Debug\net6.0\MultiToolCommander.csproj.CoreCompileInputs.cache
+E:\MultiToolCommander\obj\Debug\net6.0\MultiToolCommander.dll
+E:\MultiToolCommander\obj\Debug\net6.0\refint\MultiToolCommander.dll
+E:\MultiToolCommander\obj\Debug\net6.0\MultiToolCommander.pdb
+E:\MultiToolCommander\obj\Debug\net6.0\ref\MultiToolCommander.dll
